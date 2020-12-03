@@ -1,0 +1,27 @@
+body{
+    background: #fefefe;
+    color: #595959;
+}
+img{
+    width: 80px;
+    position: relative;
+    top:10px
+}
+#node{
+    position: relative;
+    top:20px
+}
+pre{
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header, footer,.container{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header, footer {
+    text-align: center;
+}
